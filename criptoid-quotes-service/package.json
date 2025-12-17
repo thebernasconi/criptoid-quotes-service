@@ -1,0 +1,11 @@
+{
+  "name": "criptoid-quotes-service",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "yahoo-finance2": "^2.13.3",
+    "cors": "^2.8.5"
+  }
+}
