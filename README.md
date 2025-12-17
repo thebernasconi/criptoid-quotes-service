@@ -16,8 +16,6 @@ O **Quotes Service** é a **API secundária** do projeto **CRIPTOID**. Ele é re
 
 ## Repositórios do projeto
 
-Substitua SEU_USUARIO pelo seu usuário do GitHub:
-
 Quotes Service (este): https://github.com/thebernasconi/criptoid-quotes-service
 
 API Principal: https://github.com/thebernasconi/criptoid-api
